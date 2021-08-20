@@ -1,0 +1,2 @@
+# SequelizeRelationship
+Sequelize
